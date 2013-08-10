@@ -1,0 +1,12 @@
+[
+ {
+   "repository": "MoKee/android_kernel_lge_iproj",
+   "target_path": "kernel/lge/iproj",
+   "branch": "jb-mr1_mkt"
+ },
+ {
+   "repository": "MoKee/android_vendor_lge_lu6200",
+   "target_path": "vendor/lge/lu6200",
+   "branch": "jb-mr1_mkt"
+ }
+]

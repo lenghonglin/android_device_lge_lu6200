@@ -1,0 +1,8 @@
+#
+# system.prop for lu6200
+#
+ro.telephony.default_network=9
+telephony.lteOnGsmDevice=1
+ro.telephony.ril.v3=qcomuiccstack
+ro.product.camera=i_lgu
+
