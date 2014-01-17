@@ -3,7 +3,7 @@
 
 -include device/lge/iprj-common/BoardConfigCommon.mk
 
-TARGETauthored_BOOTLOADER_BOARD_NAME := lu6200
+TARGET_BOOTLOADER_BOARD_NAME := lu6200
 TARGET_OTA_ASSERT_DEVICE := lu6200,i_lgu
 
 TARGET_ENABLE_QC_AV_ENHANCEMENTS := true
